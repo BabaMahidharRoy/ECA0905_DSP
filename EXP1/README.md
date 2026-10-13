@@ -116,7 +116,9 @@ xlabel('Frequency (Hz)');
 ylabel('Phase (degrees)');
 xlim([0 Fs/2]);
 ```
-~~~
+
 ## Output
-<img width="1026" height="427" alt="Screenshot 2026-10-13 093655" src="https://github.com/user-attachments/assets/5e18d589-775a-4557-83eb-bdda2651839a" />
-<img width="1047" height="193" alt="Screenshot 2026-10-13 093712" src="https://github.com/user-attachments/assets/f785e7fa-0cda-4fab-85a6-22518eb188bd" />
+<img width="1047" height="193" alt="Screenshot 2026-10-13 093712" src="https://github.com/user-attachments/assets/89956562-3fad-4b45-8dae-cc8e898d27db" />
+<img width="1026" height="427" alt="Screenshot 2026-10-13 093655" src="https://github.com/user-attachments/assets/ced01ba2-c91a-495a-a667-b0a0e0d076ea" />
+
+
