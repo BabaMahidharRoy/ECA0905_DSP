@@ -120,5 +120,7 @@ xlim([0 Fs/2]);
 ## Output
 <img width="1047" height="193" alt="Screenshot 2026-10-13 093712" src="https://github.com/user-attachments/assets/89956562-3fad-4b45-8dae-cc8e898d27db" />
 <img width="1026" height="427" alt="Screenshot 2026-10-13 093655" src="https://github.com/user-attachments/assets/ced01ba2-c91a-495a-a667-b0a0e0d076ea" />
+<img width="665" height="588" alt="image" src="https://github.com/user-attachments/assets/a04c8f13-fc29-462a-9129-24f63ef39bfc" />
+
 
 
