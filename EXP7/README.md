@@ -42,3 +42,5 @@ xlabel('Frequency (Hz)'); ylabel('Phase (degrees)');
 ```
 ## OUTPUT
 <img width="924" height="225" alt="image" src="https://github.com/user-attachments/assets/d3ff25b7-1a27-421b-83dc-a0a2d6afd57b" />
+<img width="699" height="566" alt="Screenshot 2026-10-15 144742" src="https://github.com/user-attachments/assets/33d20182-42c8-4213-bf66-2a8fcb1cbcd1" />
+
